@@ -87,3 +87,8 @@ IMHO it is helpful to (at least partially) categorize the configurations that pe
   - similar to a redux store, which stores all states of a particular configuration.
   - makes it possible for a NixOS module to implicitly depend on other parts of the configuration
   - which makes it powerful, but does not seem feasible, nor desirable to replicate such feature with Nickel module?
+
+# Other References / Source of Inspirations
+
+- https://github.com/GTrunSec/omnibus
+- https://github.com/GTrunSec/hivebus
